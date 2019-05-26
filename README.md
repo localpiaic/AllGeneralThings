@@ -1,2 +1,7 @@
 # AllGeneralThings
-This repo is for all general learning purpose.
+
+
+## In PRogress... Updating it soon waiting for video to be uploaded.
+
+
+

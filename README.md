@@ -1,7 +1,12 @@
 # AllGeneralThings
 
 
-## In PRogress... Updating it soon waiting for [VIDEOS](https://www.youtube.com/channel/UCgp0OKR18dEOEFxb7Af4guw/featured) to be uploaded.
+## Tutorials Provided.
+
+- [Learn GitHub](github/README.md)
 
 
+# References
+
+- [Local](https://www.youtube.com/channel/UCgp0OKR18dEOEFxb7Af4guw/featured)
 
